@@ -11,6 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "ignr": "^1.0.0"
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "glob": "^7.1.6",
+    "ignr": "^1.0.0",
+    "json2csv": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
